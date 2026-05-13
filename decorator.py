@@ -3,7 +3,7 @@ def Outer(f):
         print("*" * 10)
 
         f()
-
+        
         print("*" * 10)
 
     return Inner 

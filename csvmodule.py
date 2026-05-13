@@ -1,11 +1,15 @@
 import csv
 
+fields = ['Name','Age','City']
+
 data = [
-    [101,'Harsh','Gondia'],
-    [102,'Sakshi','Nagpur']
+    {"Name": "Harsh", "Age": 21, "City": "Nagpur"},
+    {"Name": "Sakshi", "Age": 21, "City": "Gondia"}
 ]
 
 with open('student.csv','r',newline='') as file:
-    mywriter = csv.DictReader(file)
-    for data in mywriter:
-        print(data)
+    mydata = csv.DictReader(file)
+    for rows in mydata:
+        print(rows[Name])
+   
+    
