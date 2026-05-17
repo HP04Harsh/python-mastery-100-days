@@ -1,6 +1,6 @@
 # 🐍 Python Advanced Engineering & AI Systems
 
-This repository showcases a professional-grade journey into the Python ecosystem, focusing on high-impact areas: **Production AI**, **Scalable Backend Architecture**, and **DevOps Automation**. 
+This repository showcases a professional-grade my personal journey into the Python ecosystem, focusing on high-impact areas: **Production AI**, **Scalable Backend Architecture**, and **DevOps Automation**. 
 
 The goal is to move beyond syntax to master the art of deploying seamless, automated, and optimized software solutions.
 
